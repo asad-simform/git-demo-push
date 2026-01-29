@@ -1,4 +1,5 @@
 const user = "sample"
-console . warn('hey')
-const AWS = "AKIAIOSFODNN7ExAMPLE"
+const id = 123
+console.log(hello);
+
 
